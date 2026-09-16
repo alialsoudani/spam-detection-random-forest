@@ -36,11 +36,4 @@ The model is evaluated using:
 - Confusion Matrix
 - Feature Importance
 
-## Project Structure
 
-```text
-spam-detection-random-forest/
-├── spam_detection.py
-├── spam_train_data.csv
-├── spam_test_data.csv
-└── README.md
